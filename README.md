@@ -1,4 +1,3 @@
-# Kush_Excel_Projects
 # Interactive Sales Dashboard – Excel Project
 
 ## Project Overview
